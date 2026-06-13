@@ -106,15 +106,6 @@ OpenCV | Matplotlib | Seaborn
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivamdev03&theme=algolia&no-frame=true&row=1"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
